@@ -1,2 +1,2 @@
 # pineapple60
-first ergonomic keyboard with Trackpoint
+ergonomic keyboard with Trackpoint
