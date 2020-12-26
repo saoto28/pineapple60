@@ -5,6 +5,8 @@ ergonomic keyboard with Trackpoint
 2020-12 second prototype
 
 ## p60-01
+
 2020-10 first prototype
+
 No good points:
 - 
