@@ -8,5 +8,3 @@ ergonomic keyboard with Trackpoint
 
 2020-10 first prototype pdb
 
-No good points:
-- 
