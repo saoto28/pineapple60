@@ -1,9 +1,12 @@
-## p60-01
-2020-10 first prototype pdb
+## p60-02
+2020-12 second prototype pdb
 
-No good points:
-- It was better to tilt the keys for the looks.
-- Too much distance between "N" and "I"
-- The Trackpoint position should be the same as the original position. Because the casing has a groove.
-- Less space for the USB plug.
+Modifications from p60-01:
+- Tilt the keys
+- Less deformation from ortho-keyboard
+- Move the Trackpoint position and MCU position
 
+Current concerns :
+- USB connection inside ThinkPad (for the Ergo ThinkPad)
+
+- Connection with the Trackpoint module (for the Ergo Keyboard)
