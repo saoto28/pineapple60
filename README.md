@@ -5,5 +5,5 @@ ergonomic keyboard with Trackpoint
 2020-12 second prototype pcb
 
 ## p60-01
-2020-10 first prototype pdb
+2020-10 first prototype pcb
 
