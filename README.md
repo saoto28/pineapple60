@@ -6,6 +6,7 @@ This Ergonomic keyboard PCB will be designed for two purposes
 - Install inside the Trackpoint keyboard (KU-1255 and KT-1255)
 Because they are almost same size.
 
+
 ## p60-02
 2020-12 second prototype pcb
 
