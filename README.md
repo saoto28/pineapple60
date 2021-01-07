@@ -19,5 +19,5 @@ The purposes for this project.
 ## p60-01
 2020-10 first prototype pcb
 
-![on Thinkpad T470s](p60-01\Thinkpad_T470s.jpg)
-![on Trackpoint keyboard](p60-01\Trackpoint_keyboard.jpg)
+![on Thinkpad T470s](p60-01/Thinkpad_T470s.jpg)
+![on Trackpoint keyboard](p60-01/Trackpoint_keyboard.jpg)
