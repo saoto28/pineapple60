@@ -1,5 +1,5 @@
 ## p60-01
-2020-10 first prototype pdb
+2020-10 first prototype pcb
 
 No good points:
 - It was better to tilt the keys for the looks.

@@ -1,8 +1,8 @@
 ## p60-02
-2020-12 second prototype pdb
+2020-12 second prototype pcb
 
 Modifications from p60-01:
-- Tilt the keys
+- Tilt the key layouts
 - Less deformation from ortho-keyboard
 - Move the Trackpoint position and MCU position
 
