@@ -14,7 +14,7 @@ The purposes for this project.
 
 ## p60-02
 2020-12 second prototype pcb
-
+![on Thinkpad T470s](p60-02/Thinkpad_T470s.jpg)
 
 ## p60-01
 2020-10 first prototype pcb
