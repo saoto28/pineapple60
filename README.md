@@ -9,12 +9,14 @@ The purposes for this project.
 
 ## Next plan
 - Connect the USB line inside the Thinkpad
-- Connect the Trackpoint module of the Trackpoint keyboard
-- Enable the center button scroll for Trackpoint keyboard
+- ~~Connect the Trackpoint module of the Trackpoint keyboard~~
+- ~~Enable the center button scroll for Trackpoint keyboard~~
+- Combine the USB connection between this new board and the original Trackpoint keyboard board.
 
 ## p60-02
 2020-12 second prototype pcb
 ![on Thinkpad T470s](p60-02/Thinkpad_T470s.jpg)
+![on Trackpoint keyboard](p60-02/Trackpoint_keyboard_p60_2.jpg)
 
 ## p60-01
 2020-10 first prototype pcb
