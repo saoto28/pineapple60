@@ -1,0 +1,2043 @@
+EESchema Schematic File Version 4
+LIBS:pineapple60-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:D D1
+U 1 1 5F64CB41
+P 1100 3050
+F 0 "D1" V 1146 2971 50  0000 R CNN
+F 1 "D" V 1055 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1100 3050 50  0001 C CNN
+F 3 "~" H 1100 3050 50  0001 C CNN
+	1    1100 3050
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1500 1700 1    50   Input ~ 0
+col0
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5F64EE78
+P 1300 4400
+F 0 "SW3" H 1300 4685 50  0000 C CNN
+F 1 "SW_Push" H 1300 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1300 4600 50  0001 C CNN
+F 3 "~" H 1300 4600 50  0001 C CNN
+	1    1300 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5F6523B6
+P 1300 5150
+F 0 "SW5" H 1300 5435 50  0000 C CNN
+F 1 "SW_Push" H 1300 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1300 5350 50  0001 C CNN
+F 3 "~" H 1300 5350 50  0001 C CNN
+	1    1300 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5F65804C
+P 2550 2900
+F 0 "SW10" H 2550 3185 50  0000 C CNN
+F 1 "SW_Push" H 2550 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 2550 3100 50  0001 C CNN
+F 3 "~" H 2550 3100 50  0001 C CNN
+	1    2550 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5F658056
+P 2550 3650
+F 0 "SW11" H 2550 3935 50  0000 C CNN
+F 1 "SW_Push" H 2550 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 2550 3850 50  0001 C CNN
+F 3 "~" H 2550 3850 50  0001 C CNN
+	1    2550 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5F658060
+P 2550 4400
+F 0 "SW12" H 2550 4685 50  0000 C CNN
+F 1 "SW_Push" H 2550 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 2550 4600 50  0001 C CNN
+F 3 "~" H 2550 4600 50  0001 C CNN
+	1    2550 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5F65A0BC
+P 2550 5150
+F 0 "SW14" H 2550 5435 50  0000 C CNN
+F 1 "SW_Push" H 2550 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 2550 5350 50  0001 C CNN
+F 3 "~" H 2550 5350 50  0001 C CNN
+	1    2550 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5F65A671
+P 3200 2900
+F 0 "SW15" H 3200 3185 50  0000 C CNN
+F 1 "SW_Push" H 3200 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3200 3100 50  0001 C CNN
+F 3 "~" H 3200 3100 50  0001 C CNN
+	1    3200 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5F65A67B
+P 3200 3650
+F 0 "SW16" H 3200 3935 50  0000 C CNN
+F 1 "SW_Push" H 3200 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3200 3850 50  0001 C CNN
+F 3 "~" H 3200 3850 50  0001 C CNN
+	1    3200 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5F65A685
+P 3200 4400
+F 0 "SW17" H 3200 4685 50  0000 C CNN
+F 1 "SW_Push" H 3200 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3200 4600 50  0001 C CNN
+F 3 "~" H 3200 4600 50  0001 C CNN
+	1    3200 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5F65A699
+P 3200 5150
+F 0 "SW19" H 3200 5435 50  0000 C CNN
+F 1 "SW_Push" H 3200 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3200 5350 50  0001 C CNN
+F 3 "~" H 3200 5350 50  0001 C CNN
+	1    3200 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5F65C6C9
+P 3850 2900
+F 0 "SW20" H 3850 3185 50  0000 C CNN
+F 1 "SW_Push" H 3850 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3850 3100 50  0001 C CNN
+F 3 "~" H 3850 3100 50  0001 C CNN
+	1    3850 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5F65C6D3
+P 3850 3650
+F 0 "SW21" H 3850 3935 50  0000 C CNN
+F 1 "SW_Push" H 3850 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3850 3850 50  0001 C CNN
+F 3 "~" H 3850 3850 50  0001 C CNN
+	1    3850 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5F65C6DD
+P 3850 4400
+F 0 "SW22" H 3850 4685 50  0000 C CNN
+F 1 "SW_Push" H 3850 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3850 4600 50  0001 C CNN
+F 3 "~" H 3850 4600 50  0001 C CNN
+	1    3850 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5F65C6E7
+P 3850 5150
+F 0 "SW23" H 3850 5435 50  0000 C CNN
+F 1 "SW_Push" H 3850 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3850 5350 50  0001 C CNN
+F 3 "~" H 3850 5350 50  0001 C CNN
+	1    3850 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5F65E3D1
+P 4500 2900
+F 0 "SW25" H 4500 3185 50  0000 C CNN
+F 1 "SW_Push" H 4500 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 4500 3100 50  0001 C CNN
+F 3 "~" H 4500 3100 50  0001 C CNN
+	1    4500 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5F65E3DB
+P 4500 3650
+F 0 "SW26" H 4500 3935 50  0000 C CNN
+F 1 "SW_Push" H 4500 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 4500 3850 50  0001 C CNN
+F 3 "~" H 4500 3850 50  0001 C CNN
+	1    4500 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5F65E3E5
+P 4500 4400
+F 0 "SW27" H 4500 4685 50  0000 C CNN
+F 1 "SW_Push" H 4500 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 4500 4600 50  0001 C CNN
+F 3 "~" H 4500 4600 50  0001 C CNN
+	1    4500 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5F65E3F9
+P 4500 5150
+F 0 "SW29" H 4500 5435 50  0000 C CNN
+F 1 "SW_Push" H 4500 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 4500 5350 50  0001 C CNN
+F 3 "~" H 4500 5350 50  0001 C CNN
+	1    4500 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW32
+U 1 1 5F66D26F
+P 5650 2900
+F 0 "SW32" H 5650 3185 50  0000 C CNN
+F 1 "SW_Push" H 5650 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 5650 3100 50  0001 C CNN
+F 3 "~" H 5650 3100 50  0001 C CNN
+	1    5650 2900
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 3200 1750 3200
+Connection ~ 1500 2900
+Connection ~ 2750 3650
+Wire Wire Line
+	2750 3650 2750 4400
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5F6549EB
+P 1950 2900
+F 0 "SW6" H 1950 3185 50  0000 C CNN
+F 1 "SW_Push" H 1950 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1950 3100 50  0001 C CNN
+F 3 "~" H 1950 3100 50  0001 C CNN
+	1    1950 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5F6549F5
+P 1950 3650
+F 0 "SW7" H 1950 3935 50  0000 C CNN
+F 1 "SW_Push" H 1950 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1950 3850 50  0001 C CNN
+F 3 "~" H 1950 3850 50  0001 C CNN
+	1    1950 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5F6549FF
+P 1950 4400
+F 0 "SW8" H 1950 4685 50  0000 C CNN
+F 1 "SW_Push" H 1950 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1950 4600 50  0001 C CNN
+F 3 "~" H 1950 4600 50  0001 C CNN
+	1    1950 4400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 4400 2150 3650
+Connection ~ 2150 3650
+Wire Wire Line
+	2150 3650 2150 2900
+$Comp
+L Device:D D6
+U 1 1 5F65DD06
+P 1750 3050
+F 0 "D6" V 1796 2971 50  0000 R CNN
+F 1 "D" V 1705 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1750 3050 50  0001 C CNN
+F 3 "~" H 1750 3050 50  0001 C CNN
+	1    1750 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW33
+U 1 1 5F667F3C
+P 5650 3650
+F 0 "SW33" H 5650 3935 50  0000 C CNN
+F 1 "SW_Push" H 5650 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 5650 3850 50  0001 C CNN
+F 3 "~" H 5650 3850 50  0001 C CNN
+	1    5650 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW34
+U 1 1 5F667F46
+P 5650 4400
+F 0 "SW34" H 5650 4685 50  0000 C CNN
+F 1 "SW_Push" H 5650 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 5650 4600 50  0001 C CNN
+F 3 "~" H 5650 4600 50  0001 C CNN
+	1    5650 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW36
+U 1 1 5F667F5A
+P 5650 5150
+F 0 "SW36" H 5650 5435 50  0000 C CNN
+F 1 "SW_Push" H 5650 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 5650 5350 50  0001 C CNN
+F 3 "~" H 5650 5350 50  0001 C CNN
+	1    5650 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW38
+U 1 1 5F66FAF5
+P 6300 2900
+F 0 "SW38" H 6300 3185 50  0000 C CNN
+F 1 "SW_Push" H 6300 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6300 3100 50  0001 C CNN
+F 3 "~" H 6300 3100 50  0001 C CNN
+	1    6300 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW39
+U 1 1 5F66FB00
+P 6300 3650
+F 0 "SW39" H 6300 3935 50  0000 C CNN
+F 1 "SW_Push" H 6300 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6300 3850 50  0001 C CNN
+F 3 "~" H 6300 3850 50  0001 C CNN
+	1    6300 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW40
+U 1 1 5F66FB0A
+P 6300 4400
+F 0 "SW40" H 6300 4685 50  0000 C CNN
+F 1 "SW_Push" H 6300 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6300 4600 50  0001 C CNN
+F 3 "~" H 6300 4600 50  0001 C CNN
+	1    6300 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW41
+U 1 1 5F66FB1E
+P 6300 5150
+F 0 "SW41" H 6300 5435 50  0000 C CNN
+F 1 "SW_Push" H 6300 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6300 5350 50  0001 C CNN
+F 3 "~" H 6300 5350 50  0001 C CNN
+	1    6300 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW42
+U 1 1 5F672A98
+P 6950 2900
+F 0 "SW42" H 6950 3185 50  0000 C CNN
+F 1 "SW_Push" H 6950 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6950 3100 50  0001 C CNN
+F 3 "~" H 6950 3100 50  0001 C CNN
+	1    6950 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW43
+U 1 1 5F672AA2
+P 6950 3650
+F 0 "SW43" H 6950 3935 50  0000 C CNN
+F 1 "SW_Push" H 6950 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6950 3850 50  0001 C CNN
+F 3 "~" H 6950 3850 50  0001 C CNN
+	1    6950 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW44
+U 1 1 5F672AAC
+P 6950 4400
+F 0 "SW44" H 6950 4685 50  0000 C CNN
+F 1 "SW_Push" H 6950 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6950 4600 50  0001 C CNN
+F 3 "~" H 6950 4600 50  0001 C CNN
+	1    6950 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW46
+U 1 1 5F672AC0
+P 6950 5150
+F 0 "SW46" H 6950 5435 50  0000 C CNN
+F 1 "SW_Push" H 6950 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6950 5350 50  0001 C CNN
+F 3 "~" H 6950 5350 50  0001 C CNN
+	1    6950 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW47
+U 1 1 5F673F79
+P 7600 2900
+F 0 "SW47" H 7600 3185 50  0000 C CNN
+F 1 "SW_Push" H 7600 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 7600 3100 50  0001 C CNN
+F 3 "~" H 7600 3100 50  0001 C CNN
+	1    7600 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW48
+U 1 1 5F673F83
+P 7600 3650
+F 0 "SW48" H 7600 3935 50  0000 C CNN
+F 1 "SW_Push" H 7600 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 7600 3850 50  0001 C CNN
+F 3 "~" H 7600 3850 50  0001 C CNN
+	1    7600 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW49
+U 1 1 5F673F8D
+P 7600 4400
+F 0 "SW49" H 7600 4685 50  0000 C CNN
+F 1 "SW_Push" H 7600 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 7600 4600 50  0001 C CNN
+F 3 "~" H 7600 4600 50  0001 C CNN
+	1    7600 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW51
+U 1 1 5F673FA1
+P 7600 5150
+F 0 "SW51" H 7600 5435 50  0000 C CNN
+F 1 "SW_Push" H 7600 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 7600 5350 50  0001 C CNN
+F 3 "~" H 7600 5350 50  0001 C CNN
+	1    7600 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW52
+U 1 1 5F67562C
+P 8250 2900
+F 0 "SW52" H 8250 3185 50  0000 C CNN
+F 1 "SW_Push" H 8250 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8250 3100 50  0001 C CNN
+F 3 "~" H 8250 3100 50  0001 C CNN
+	1    8250 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW53
+U 1 1 5F675636
+P 8250 3650
+F 0 "SW53" H 8250 3935 50  0000 C CNN
+F 1 "SW_Push" H 8250 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8250 3850 50  0001 C CNN
+F 3 "~" H 8250 3850 50  0001 C CNN
+	1    8250 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW54
+U 1 1 5F675640
+P 8250 4400
+F 0 "SW54" H 8250 4685 50  0000 C CNN
+F 1 "SW_Push" H 8250 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8250 4600 50  0001 C CNN
+F 3 "~" H 8250 4600 50  0001 C CNN
+	1    8250 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW55
+U 1 1 5F675654
+P 8250 5150
+F 0 "SW55" H 8250 5435 50  0000 C CNN
+F 1 "SW_Push" H 8250 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8250 5350 50  0001 C CNN
+F 3 "~" H 8250 5350 50  0001 C CNN
+	1    8250 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW57
+U 1 1 5F676EF2
+P 8900 2900
+F 0 "SW57" H 8900 3185 50  0000 C CNN
+F 1 "SW_Push" H 8900 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8900 3100 50  0001 C CNN
+F 3 "~" H 8900 3100 50  0001 C CNN
+	1    8900 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW58
+U 1 1 5F676EFC
+P 8900 3650
+F 0 "SW58" H 8900 3935 50  0000 C CNN
+F 1 "SW_Push" H 8900 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8900 3850 50  0001 C CNN
+F 3 "~" H 8900 3850 50  0001 C CNN
+	1    8900 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW59
+U 1 1 5F676F06
+P 8900 4400
+F 0 "SW59" H 8900 4685 50  0000 C CNN
+F 1 "SW_Push" H 8900 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8900 4600 50  0001 C CNN
+F 3 "~" H 8900 4600 50  0001 C CNN
+	1    8900 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW60
+U 1 1 5F676F10
+P 8900 5150
+F 0 "SW60" H 8900 5435 50  0000 C CNN
+F 1 "SW_Push" H 8900 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8900 5350 50  0001 C CNN
+F 3 "~" H 8900 5350 50  0001 C CNN
+	1    8900 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW62
+U 1 1 5F678CC8
+P 9550 2900
+F 0 "SW62" H 9550 3185 50  0000 C CNN
+F 1 "SW_Push" H 9550 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 9550 3100 50  0001 C CNN
+F 3 "~" H 9550 3100 50  0001 C CNN
+	1    9550 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW63
+U 1 1 5F678CD2
+P 9550 3650
+F 0 "SW63" H 9550 3935 50  0000 C CNN
+F 1 "SW_Push" H 9550 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 9550 3850 50  0001 C CNN
+F 3 "~" H 9550 3850 50  0001 C CNN
+	1    9550 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW64
+U 1 1 5F678CDC
+P 9550 4400
+F 0 "SW64" H 9550 4685 50  0000 C CNN
+F 1 "SW_Push" H 9550 4594 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 9550 4600 50  0001 C CNN
+F 3 "~" H 9550 4600 50  0001 C CNN
+	1    9550 4400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW65
+U 1 1 5F678CE6
+P 9550 5150
+F 0 "SW65" H 9550 5435 50  0000 C CNN
+F 1 "SW_Push" H 9550 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 9550 5350 50  0001 C CNN
+F 3 "~" H 9550 5350 50  0001 C CNN
+	1    9550 5150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5F674B46
+P 4400 5900
+F 0 "SW24" H 4400 6185 50  0000 C CNN
+F 1 "SW_Push" H 4400 6094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 4400 6100 50  0001 C CNN
+F 3 "~" H 4400 6100 50  0001 C CNN
+	1    4400 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5F674B50
+P 5050 5900
+F 0 "SW31" H 5050 6185 50  0000 C CNN
+F 1 "SW_Push" H 5050 6094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 5050 6100 50  0001 C CNN
+F 3 "~" H 5050 6100 50  0001 C CNN
+	1    5050 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 5F674B5A
+P 6050 5900
+F 0 "SW37" H 6050 6185 50  0000 C CNN
+F 1 "SW_Push" H 6050 6094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-1.5U" H 6050 6100 50  0001 C CNN
+F 3 "~" H 6050 6100 50  0001 C CNN
+	1    6050 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5F654A09
+P 1950 5150
+F 0 "SW9" H 1950 5435 50  0000 C CNN
+F 1 "SW_Push" H 1950 5344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1950 5350 50  0001 C CNN
+F 3 "~" H 1950 5350 50  0001 C CNN
+	1    1950 5150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 5900 5250 5900
+Connection ~ 9100 4400
+Wire Wire Line
+	9100 4400 9100 5150
+Wire Wire Line
+	9750 5150 9750 4400
+Connection ~ 9750 4400
+Wire Wire Line
+	9750 4400 9750 3650
+$Comp
+L Device:D D29
+U 1 1 5F6DA13B
+P 4300 5300
+F 0 "D29" V 4346 5221 50  0000 R CNN
+F 1 "D" V 4255 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4300 5300 50  0001 C CNN
+F 3 "~" H 4300 5300 50  0001 C CNN
+	1    4300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 5F6E4669
+P 5450 5300
+F 0 "D36" V 5496 5221 50  0000 R CNN
+F 1 "D" V 5405 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5450 5300 50  0001 C CNN
+F 3 "~" H 5450 5300 50  0001 C CNN
+	1    5450 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D41
+U 1 1 5F6E5AF4
+P 6100 5300
+F 0 "D41" V 6146 5221 50  0000 R CNN
+F 1 "D" V 6055 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6100 5300 50  0001 C CNN
+F 3 "~" H 6100 5300 50  0001 C CNN
+	1    6100 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D59
+U 1 1 5F6EAE97
+P 8700 4550
+F 0 "D59" V 8746 4471 50  0000 R CNN
+F 1 "D" V 8655 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8700 4550 50  0001 C CNN
+F 3 "~" H 8700 4550 50  0001 C CNN
+	1    8700 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D64
+U 1 1 5F6EC255
+P 9350 4550
+F 0 "D64" V 9396 4471 50  0000 R CNN
+F 1 "D" V 9305 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 9350 4550 50  0001 C CNN
+F 3 "~" H 9350 4550 50  0001 C CNN
+	1    9350 4550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10000 4700 9350 4700
+Connection ~ 9350 4700
+Wire Wire Line
+	6100 5450 5450 5450
+Connection ~ 5450 5450
+Connection ~ 4300 5450
+$Comp
+L Device:D D5
+U 1 1 5F6FA240
+P 1100 5300
+F 0 "D5" V 1146 5221 50  0000 R CNN
+F 1 "D" V 1055 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1100 5300 50  0001 C CNN
+F 3 "~" H 1100 5300 50  0001 C CNN
+	1    1100 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5F6FC278
+P 1750 5300
+F 0 "D9" V 1796 5221 50  0000 R CNN
+F 1 "D" V 1705 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1750 5300 50  0001 C CNN
+F 3 "~" H 1750 5300 50  0001 C CNN
+	1    1750 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5F6FE08A
+P 2350 5300
+F 0 "D14" V 2396 5221 50  0000 R CNN
+F 1 "D" V 2305 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 2350 5300 50  0001 C CNN
+F 3 "~" H 2350 5300 50  0001 C CNN
+	1    2350 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5F6FFEBF
+P 3000 5300
+F 0 "D19" V 3046 5221 50  0000 R CNN
+F 1 "D" V 2955 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3000 5300 50  0001 C CNN
+F 3 "~" H 3000 5300 50  0001 C CNN
+	1    3000 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 5F701CDB
+P 3650 5300
+F 0 "D23" V 3696 5221 50  0000 R CNN
+F 1 "D" V 3605 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3650 5300 50  0001 C CNN
+F 3 "~" H 3650 5300 50  0001 C CNN
+	1    3650 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 5F703BF1
+P 4200 6050
+F 0 "D24" V 4246 5971 50  0000 R CNN
+F 1 "D" V 4155 5971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4200 6050 50  0001 C CNN
+F 3 "~" H 4200 6050 50  0001 C CNN
+	1    4200 6050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 5F70595E
+P 4850 6050
+F 0 "D31" V 4896 5971 50  0000 R CNN
+F 1 "D" V 4805 5971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4850 6050 50  0001 C CNN
+F 3 "~" H 4850 6050 50  0001 C CNN
+	1    4850 6050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D37
+U 1 1 5F7079A0
+P 5850 6050
+F 0 "D37" V 5896 5971 50  0000 R CNN
+F 1 "D" V 5805 5971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5850 6050 50  0001 C CNN
+F 3 "~" H 5850 6050 50  0001 C CNN
+	1    5850 6050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D46
+U 1 1 5F7096EA
+P 6750 5300
+F 0 "D46" V 6796 5221 50  0000 R CNN
+F 1 "D" V 6705 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6750 5300 50  0001 C CNN
+F 3 "~" H 6750 5300 50  0001 C CNN
+	1    6750 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D51
+U 1 1 5F70D840
+P 7400 5300
+F 0 "D51" V 7446 5221 50  0000 R CNN
+F 1 "D" V 7355 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 7400 5300 50  0001 C CNN
+F 3 "~" H 7400 5300 50  0001 C CNN
+	1    7400 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D55
+U 1 1 5F70F70B
+P 8050 5300
+F 0 "D55" V 8096 5221 50  0000 R CNN
+F 1 "D" V 8005 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8050 5300 50  0001 C CNN
+F 3 "~" H 8050 5300 50  0001 C CNN
+	1    8050 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D60
+U 1 1 5F71159A
+P 8700 5300
+F 0 "D60" V 8746 5221 50  0000 R CNN
+F 1 "D" V 8655 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8700 5300 50  0001 C CNN
+F 3 "~" H 8700 5300 50  0001 C CNN
+	1    8700 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D65
+U 1 1 5F7133AC
+P 9350 5300
+F 0 "D65" V 9396 5221 50  0000 R CNN
+F 1 "D" V 9305 5221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 9350 5300 50  0001 C CNN
+F 3 "~" H 9350 5300 50  0001 C CNN
+	1    9350 5300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1100 5450 1750 5450
+Connection ~ 1750 5450
+Wire Wire Line
+	1750 5450 2350 5450
+Connection ~ 2350 5450
+Wire Wire Line
+	2350 5450 3000 5450
+Connection ~ 3000 5450
+Wire Wire Line
+	3000 5450 3650 5450
+Wire Wire Line
+	4200 6200 4850 6200
+Connection ~ 4850 6200
+Connection ~ 5850 6200
+Wire Wire Line
+	5850 6200 6750 6200
+Wire Wire Line
+	10000 5450 9350 5450
+Connection ~ 8050 5450
+Wire Wire Line
+	8050 5450 7400 5450
+Connection ~ 8700 5450
+Wire Wire Line
+	8700 5450 8050 5450
+Connection ~ 9350 5450
+Wire Wire Line
+	9350 5450 8700 5450
+Connection ~ 7400 5450
+$Comp
+L Device:D D3
+U 1 1 5F727651
+P 1100 4550
+F 0 "D3" V 1146 4471 50  0000 R CNN
+F 1 "D" V 1055 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1100 4550 50  0001 C CNN
+F 3 "~" H 1100 4550 50  0001 C CNN
+	1    1100 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5F727657
+P 1750 4550
+F 0 "D8" V 1796 4471 50  0000 R CNN
+F 1 "D" V 1705 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1750 4550 50  0001 C CNN
+F 3 "~" H 1750 4550 50  0001 C CNN
+	1    1750 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5F72765D
+P 2350 4550
+F 0 "D12" V 2396 4471 50  0000 R CNN
+F 1 "D" V 2305 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 2350 4550 50  0001 C CNN
+F 3 "~" H 2350 4550 50  0001 C CNN
+	1    2350 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5F727663
+P 3000 4550
+F 0 "D17" V 3046 4471 50  0000 R CNN
+F 1 "D" V 2955 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3000 4550 50  0001 C CNN
+F 3 "~" H 3000 4550 50  0001 C CNN
+	1    3000 4550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1100 4700 1750 4700
+Connection ~ 1750 4700
+Wire Wire Line
+	1750 4700 2350 4700
+Connection ~ 2350 4700
+Wire Wire Line
+	2350 4700 3000 4700
+Connection ~ 3000 4700
+Wire Wire Line
+	3000 4700 3650 4700
+$Comp
+L Device:D D22
+U 1 1 5F72B031
+P 3650 4550
+F 0 "D22" V 3696 4471 50  0000 R CNN
+F 1 "D" V 3605 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3650 4550 50  0001 C CNN
+F 3 "~" H 3650 4550 50  0001 C CNN
+	1    3650 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 5F72B037
+P 4300 4550
+F 0 "D27" V 4346 4471 50  0000 R CNN
+F 1 "D" V 4255 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4300 4550 50  0001 C CNN
+F 3 "~" H 4300 4550 50  0001 C CNN
+	1    4300 4550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3650 4700 4300 4700
+$Comp
+L Device:D D34
+U 1 1 5F7389F1
+P 5450 4550
+F 0 "D34" V 5496 4471 50  0000 R CNN
+F 1 "D" V 5405 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5450 4550 50  0001 C CNN
+F 3 "~" H 5450 4550 50  0001 C CNN
+	1    5450 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 5F7389F7
+P 6100 4550
+F 0 "D40" V 6146 4471 50  0000 R CNN
+F 1 "D" V 6055 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6100 4550 50  0001 C CNN
+F 3 "~" H 6100 4550 50  0001 C CNN
+	1    6100 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D44
+U 1 1 5F7389FD
+P 6750 4550
+F 0 "D44" V 6796 4471 50  0000 R CNN
+F 1 "D" V 6705 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6750 4550 50  0001 C CNN
+F 3 "~" H 6750 4550 50  0001 C CNN
+	1    6750 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D49
+U 1 1 5F738A03
+P 7400 4550
+F 0 "D49" V 7446 4471 50  0000 R CNN
+F 1 "D" V 7355 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 7400 4550 50  0001 C CNN
+F 3 "~" H 7400 4550 50  0001 C CNN
+	1    7400 4550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6100 4700
+Wire Wire Line
+	5450 4700 4300 4700
+Connection ~ 5450 4700
+Connection ~ 3650 4700
+Connection ~ 4300 4700
+Connection ~ 6750 4700
+Wire Wire Line
+	6100 4700 6750 4700
+Connection ~ 7400 4700
+Wire Wire Line
+	6750 4700 7400 4700
+$Comp
+L Device:D D54
+U 1 1 5F7474FF
+P 8050 4550
+F 0 "D54" V 8096 4471 50  0000 R CNN
+F 1 "D" V 8005 4471 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8050 4550 50  0001 C CNN
+F 3 "~" H 8050 4550 50  0001 C CNN
+	1    8050 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D58
+U 1 1 5F747505
+P 8700 3800
+F 0 "D58" V 8746 3721 50  0000 R CNN
+F 1 "D" V 8655 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8700 3800 50  0001 C CNN
+F 3 "~" H 8700 3800 50  0001 C CNN
+	1    8700 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D63
+U 1 1 5F74750B
+P 9350 3800
+F 0 "D63" V 9396 3721 50  0000 R CNN
+F 1 "D" V 9305 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 9350 3800 50  0001 C CNN
+F 3 "~" H 9350 3800 50  0001 C CNN
+	1    9350 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10000 3950 9350 3950
+Connection ~ 9350 3950
+$Comp
+L Device:D D48
+U 1 1 5F7527C9
+P 7400 3800
+F 0 "D48" V 7446 3721 50  0000 R CNN
+F 1 "D" V 7355 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 7400 3800 50  0001 C CNN
+F 3 "~" H 7400 3800 50  0001 C CNN
+	1    7400 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D53
+U 1 1 5F7527CF
+P 8050 3800
+F 0 "D53" V 8096 3721 50  0000 R CNN
+F 1 "D" V 8005 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8050 3800 50  0001 C CNN
+F 3 "~" H 8050 3800 50  0001 C CNN
+	1    8050 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D57
+U 1 1 5F7527D5
+P 8700 3050
+F 0 "D57" V 8746 2971 50  0000 R CNN
+F 1 "D" V 8655 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8700 3050 50  0001 C CNN
+F 3 "~" H 8700 3050 50  0001 C CNN
+	1    8700 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D62
+U 1 1 5F7527DB
+P 9350 3050
+F 0 "D62" V 9396 2971 50  0000 R CNN
+F 1 "D" V 9305 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 9350 3050 50  0001 C CNN
+F 3 "~" H 9350 3050 50  0001 C CNN
+	1    9350 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10000 3200 9350 3200
+Wire Wire Line
+	8050 3950 7400 3950
+Connection ~ 9350 3200
+Wire Wire Line
+	7400 3950 6750 3950
+Connection ~ 7400 3950
+Wire Wire Line
+	7400 4700 8050 4700
+$Comp
+L Device:D D2
+U 1 1 5F758A2D
+P 1100 3800
+F 0 "D2" V 1146 3721 50  0000 R CNN
+F 1 "D" V 1055 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1100 3800 50  0001 C CNN
+F 3 "~" H 1100 3800 50  0001 C CNN
+	1    1100 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5F758A33
+P 1750 3800
+F 0 "D7" V 1796 3721 50  0000 R CNN
+F 1 "D" V 1705 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1750 3800 50  0001 C CNN
+F 3 "~" H 1750 3800 50  0001 C CNN
+	1    1750 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5F758A39
+P 2350 3800
+F 0 "D11" V 2396 3721 50  0000 R CNN
+F 1 "D" V 2305 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 2350 3800 50  0001 C CNN
+F 3 "~" H 2350 3800 50  0001 C CNN
+	1    2350 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5F758A3F
+P 3000 3800
+F 0 "D16" V 3046 3721 50  0000 R CNN
+F 1 "D" V 2955 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3000 3800 50  0001 C CNN
+F 3 "~" H 3000 3800 50  0001 C CNN
+	1    3000 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1100 3950 1750 3950
+Connection ~ 1750 3950
+Wire Wire Line
+	1750 3950 2350 3950
+Connection ~ 2350 3950
+Wire Wire Line
+	2350 3950 3000 3950
+Connection ~ 3000 3950
+Wire Wire Line
+	3000 3950 3650 3950
+$Comp
+L Device:D D21
+U 1 1 5F75E3CD
+P 3650 3800
+F 0 "D21" V 3696 3721 50  0000 R CNN
+F 1 "D" V 3605 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3650 3800 50  0001 C CNN
+F 3 "~" H 3650 3800 50  0001 C CNN
+	1    3650 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 5F75E3D3
+P 4300 3800
+F 0 "D26" V 4346 3721 50  0000 R CNN
+F 1 "D" V 4255 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4300 3800 50  0001 C CNN
+F 3 "~" H 4300 3800 50  0001 C CNN
+	1    4300 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 5F75E3DF
+P 5450 3800
+F 0 "D33" V 5496 3721 50  0000 R CNN
+F 1 "D" V 5405 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5450 3800 50  0001 C CNN
+F 3 "~" H 5450 3800 50  0001 C CNN
+	1    5450 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3650 3950 4300 3950
+Connection ~ 4300 3950
+Wire Wire Line
+	4300 3950 5450 3950
+Connection ~ 5450 3950
+$Comp
+L Device:D D39
+U 1 1 5F770C98
+P 6100 3800
+F 0 "D39" V 6146 3721 50  0000 R CNN
+F 1 "D" V 6055 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6100 3800 50  0001 C CNN
+F 3 "~" H 6100 3800 50  0001 C CNN
+	1    6100 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D43
+U 1 1 5F775522
+P 6750 3800
+F 0 "D43" V 6796 3721 50  0000 R CNN
+F 1 "D" V 6705 3721 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6750 3800 50  0001 C CNN
+F 3 "~" H 6750 3800 50  0001 C CNN
+	1    6750 3800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 3950 6100 3950
+Connection ~ 6750 3950
+$Comp
+L Device:D D47
+U 1 1 5F7A265F
+P 7400 3050
+F 0 "D47" V 7446 2971 50  0000 R CNN
+F 1 "D" V 7355 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 7400 3050 50  0001 C CNN
+F 3 "~" H 7400 3050 50  0001 C CNN
+	1    7400 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D52
+U 1 1 5F7A2665
+P 8050 3050
+F 0 "D52" V 8096 2971 50  0000 R CNN
+F 1 "D" V 8005 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8050 3050 50  0001 C CNN
+F 3 "~" H 8050 3050 50  0001 C CNN
+	1    8050 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5F7A2677
+P 2350 3050
+F 0 "D10" V 2396 2971 50  0000 R CNN
+F 1 "D" V 2305 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 2350 3050 50  0001 C CNN
+F 3 "~" H 2350 3050 50  0001 C CNN
+	1    2350 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5F7A267D
+P 3000 3050
+F 0 "D15" V 3046 2971 50  0000 R CNN
+F 1 "D" V 2955 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3000 3050 50  0001 C CNN
+F 3 "~" H 3000 3050 50  0001 C CNN
+	1    3000 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5F7A2683
+P 3650 3050
+F 0 "D20" V 3696 2971 50  0000 R CNN
+F 1 "D" V 3605 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3650 3050 50  0001 C CNN
+F 3 "~" H 3650 3050 50  0001 C CNN
+	1    3650 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 5F7A2689
+P 4300 3050
+F 0 "D25" V 4346 2971 50  0000 R CNN
+F 1 "D" V 4255 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4300 3050 50  0001 C CNN
+F 3 "~" H 4300 3050 50  0001 C CNN
+	1    4300 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 5F7A268F
+P 5450 3050
+F 0 "D32" V 5496 2971 50  0000 R CNN
+F 1 "D" V 5405 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5450 3050 50  0001 C CNN
+F 3 "~" H 5450 3050 50  0001 C CNN
+	1    5450 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 5F7A2695
+P 6100 3050
+F 0 "D38" V 6146 2971 50  0000 R CNN
+F 1 "D" V 6055 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6100 3050 50  0001 C CNN
+F 3 "~" H 6100 3050 50  0001 C CNN
+	1    6100 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D42
+U 1 1 5F7A269B
+P 6750 3050
+F 0 "D42" V 6796 2971 50  0000 R CNN
+F 1 "D" V 6705 2971 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6750 3050 50  0001 C CNN
+F 3 "~" H 6750 3050 50  0001 C CNN
+	1    6750 3050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3400 3650
+Wire Wire Line
+	3400 3650 3400 4400
+Connection ~ 3400 2900
+Wire Wire Line
+	3400 2900 3400 3650
+Connection ~ 4050 3650
+Wire Wire Line
+	4050 3650 4050 4400
+Wire Wire Line
+	4700 2900 4700 3650
+Connection ~ 4700 3650
+Wire Wire Line
+	4700 3650 4700 4400
+Wire Wire Line
+	5850 4400 5850 3650
+Connection ~ 5850 3650
+Wire Wire Line
+	5850 3650 5850 2900
+Connection ~ 6500 3650
+Wire Wire Line
+	6500 3650 6500 4400
+Connection ~ 7150 3650
+Wire Wire Line
+	7150 3650 7150 4400
+Wire Wire Line
+	7150 2900 7150 3650
+Connection ~ 7800 3650
+Wire Wire Line
+	8450 4400 8450 3650
+Connection ~ 8450 3650
+Wire Wire Line
+	8450 3650 8450 2900
+Connection ~ 9100 2900
+Wire Wire Line
+	9100 2900 9100 3650
+Connection ~ 9100 3650
+Wire Wire Line
+	9100 3650 9100 4400
+Connection ~ 9750 3650
+Connection ~ 9750 2900
+Wire Wire Line
+	9750 2900 9750 3650
+Wire Wire Line
+	1750 3200 2350 3200
+Connection ~ 1750 3200
+Connection ~ 2350 3200
+Wire Wire Line
+	2350 3200 3000 3200
+Connection ~ 3000 3200
+Wire Wire Line
+	3000 3200 3650 3200
+Connection ~ 3650 3200
+Wire Wire Line
+	3650 3200 4300 3200
+Connection ~ 4300 3200
+Wire Wire Line
+	4300 3200 5450 3200
+Connection ~ 5450 3200
+Wire Wire Line
+	5450 3200 6100 3200
+Connection ~ 6100 3200
+Wire Wire Line
+	6100 3200 6750 3200
+Connection ~ 6750 3200
+Wire Wire Line
+	6750 3200 7400 3200
+Connection ~ 7400 3200
+Wire Wire Line
+	7400 3200 8050 3200
+Connection ~ 6100 3950
+Wire Wire Line
+	6100 3950 6750 3950
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F6F8191
+P 4050 7300
+F 0 "H2" H 4150 7346 50  0000 L CNN
+F 1 "MountingHole" H 4150 7255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 4050 7300 50  0001 C CNN
+F 3 "~" H 4050 7300 50  0001 C CNN
+	1    4050 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F6F9914
+P 4900 7150
+F 0 "H3" H 5000 7196 50  0000 L CNN
+F 1 "MountingHole" H 5000 7105 50  0000 L CNN
+F 2 "pineapple50:Trackpoint_KT1255" H 4900 7150 50  0001 C CNN
+F 3 "~" H 4900 7150 50  0001 C CNN
+	1    4900 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5F6FB1C7
+P 5600 7300
+F 0 "H5" H 5700 7346 50  0000 L CNN
+F 1 "MountingHole" H 5700 7255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 5600 7300 50  0001 C CNN
+F 3 "~" H 5600 7300 50  0001 C CNN
+	1    5600 7300
+	1    0    0    -1  
+$EndComp
+Connection ~ 3650 3950
+$Comp
+L pineapple:itsybitsy_32u4 U1
+U 1 1 5F703249
+P 2100 5700
+F 0 "U1" H 2125 5715 50  0000 C CNN
+F 1 "itsybitsy_32u4" H 2125 5624 50  0000 C CNN
+F 2 "pineapple50:itsybitsy_32u4_open" H 2100 5700 50  0001 C CNN
+F 3 "" H 2100 5700 50  0001 C CNN
+	1    2100 5700
+	1    0    0    -1  
+$EndComp
+Text GLabel 2150 1700 1    50   Input ~ 0
+col1
+Text GLabel 2750 1700 1    50   Input ~ 0
+col2
+Text GLabel 3400 1700 1    50   Input ~ 0
+col3
+Text GLabel 4050 1700 1    50   Input ~ 0
+col4
+Text GLabel 4700 1700 1    50   Input ~ 0
+col5
+Text GLabel 5850 1700 1    50   Input ~ 0
+col6
+Text GLabel 6500 1700 1    50   Input ~ 0
+col7
+Text GLabel 7150 1700 1    50   Input ~ 0
+col8
+Text GLabel 7800 1700 1    50   Input ~ 0
+col9
+Text GLabel 8450 1700 1    50   Input ~ 0
+col10
+Text GLabel 9100 1650 1    50   Input ~ 0
+col11
+Text GLabel 10000 3200 2    50   Input ~ 0
+row1
+Text GLabel 10000 3950 2    50   Input ~ 0
+row2
+Text GLabel 10000 4700 2    50   Input ~ 0
+row3
+Text GLabel 10000 5450 2    50   Input ~ 0
+row4
+Text GLabel 2800 6750 2    50   Input ~ 0
+row0
+Text GLabel 2800 6650 2    50   Input ~ 0
+row1
+Text GLabel 2800 6550 2    50   Input ~ 0
+row2
+Text GLabel 2800 6450 2    50   Input ~ 0
+row3
+Text GLabel 2800 6350 2    50   Input ~ 0
+row4
+Wire Wire Line
+	2650 6250 2800 6250
+Wire Wire Line
+	2800 6350 2650 6350
+Wire Wire Line
+	2650 6450 2800 6450
+Wire Wire Line
+	2800 6550 2650 6550
+Wire Wire Line
+	2650 6650 2800 6650
+Text GLabel 1450 7150 0    50   Input ~ 0
+col0
+Text GLabel 1450 7050 0    50   Input ~ 0
+col1
+Text GLabel 1450 6950 0    50   Input ~ 0
+col2
+Text GLabel 1450 6850 0    50   Input ~ 0
+col3
+Text GLabel 1450 6750 0    50   Input ~ 0
+col4
+Text GLabel 1450 6650 0    50   Input ~ 0
+col5
+Text GLabel 1450 6550 0    50   Input ~ 0
+col6
+Text GLabel 1450 6450 0    50   Input ~ 0
+col7
+Text GLabel 2800 7150 2    50   Input ~ 0
+col9
+Text GLabel 2800 7050 2    50   Input ~ 0
+col10
+Text GLabel 2800 6950 2    50   Input ~ 0
+col11
+Text GLabel 2800 6850 2    50   Input ~ 0
+col12
+Wire Wire Line
+	2650 6750 2800 6750
+Wire Wire Line
+	2800 6850 2650 6850
+Connection ~ 8450 2900
+Connection ~ 7800 2900
+Wire Wire Line
+	7800 2900 7800 3650
+Connection ~ 7150 2900
+Connection ~ 6500 2900
+Wire Wire Line
+	6500 2900 6500 3650
+Connection ~ 5850 2900
+Connection ~ 4700 2900
+Connection ~ 4050 2900
+Wire Wire Line
+	4050 2900 4050 3650
+Connection ~ 2750 2900
+Wire Wire Line
+	2750 2900 2750 3650
+Connection ~ 2150 2900
+Wire Wire Line
+	2650 6950 2800 6950
+Wire Wire Line
+	2650 7050 2800 7050
+Wire Wire Line
+	1450 6350 1600 6350
+Wire Wire Line
+	1450 6450 1600 6450
+Wire Wire Line
+	1450 6550 1600 6550
+Wire Wire Line
+	1600 6650 1450 6650
+Wire Wire Line
+	1450 6750 1600 6750
+Wire Wire Line
+	1600 6850 1450 6850
+Wire Wire Line
+	1450 6950 1600 6950
+Wire Wire Line
+	1600 7050 1450 7050
+Wire Wire Line
+	1450 7150 1600 7150
+Text GLabel 9750 1650 1    50   Input ~ 0
+col12
+NoConn ~ 1600 5950
+NoConn ~ 1600 6050
+NoConn ~ 1600 6150
+NoConn ~ 1600 6250
+NoConn ~ 2650 5950
+NoConn ~ 2650 6050
+NoConn ~ 2650 6150
+NoConn ~ 1600 7250
+NoConn ~ 2650 7250
+NoConn ~ 1950 7650
+NoConn ~ 2050 7650
+NoConn ~ 2150 7650
+NoConn ~ 2250 7650
+NoConn ~ 2350 7650
+Wire Wire Line
+	9100 1650 9100 2900
+Wire Wire Line
+	9750 1650 9750 2900
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5F75ECA7
+P 1300 2150
+F 0 "SW4" H 1300 2435 50  0000 C CNN
+F 1 "SW_Push" H 1300 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1300 2350 50  0001 C CNN
+F 3 "~" H 1300 2350 50  0001 C CNN
+	1    1300 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5F75ECB1
+P 1100 2300
+F 0 "D4" V 1146 2221 50  0000 R CNN
+F 1 "D" V 1055 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1100 2300 50  0001 C CNN
+F 3 "~" H 1100 2300 50  0001 C CNN
+	1    1100 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5F75ECBB
+P 2550 2150
+F 0 "SW18" H 2550 2435 50  0000 C CNN
+F 1 "SW_Push" H 2550 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 2550 2350 50  0001 C CNN
+F 3 "~" H 2550 2350 50  0001 C CNN
+	1    2550 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5F75ECC5
+P 3200 2150
+F 0 "SW28" H 3200 2435 50  0000 C CNN
+F 1 "SW_Push" H 3200 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3200 2350 50  0001 C CNN
+F 3 "~" H 3200 2350 50  0001 C CNN
+	1    3200 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW35
+U 1 1 5F75ECCF
+P 3850 2150
+F 0 "SW35" H 3850 2435 50  0000 C CNN
+F 1 "SW_Push" H 3850 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 3850 2350 50  0001 C CNN
+F 3 "~" H 3850 2350 50  0001 C CNN
+	1    3850 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW45
+U 1 1 5F75ECD9
+P 4500 2150
+F 0 "SW45" H 4500 2435 50  0000 C CNN
+F 1 "SW_Push" H 4500 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 4500 2350 50  0001 C CNN
+F 3 "~" H 4500 2350 50  0001 C CNN
+	1    4500 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW50
+U 1 1 5F75ECE3
+P 5650 2150
+F 0 "SW50" H 5650 2435 50  0000 C CNN
+F 1 "SW_Push" H 5650 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 5650 2350 50  0001 C CNN
+F 3 "~" H 5650 2350 50  0001 C CNN
+	1    5650 2150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 2450 1750 2450
+Connection ~ 1500 2150
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5F75ECF1
+P 1950 2150
+F 0 "SW13" H 1950 2435 50  0000 C CNN
+F 1 "SW_Push" H 1950 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1950 2350 50  0001 C CNN
+F 3 "~" H 1950 2350 50  0001 C CNN
+	1    1950 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5F75ECFC
+P 1750 2300
+F 0 "D13" V 1796 2221 50  0000 R CNN
+F 1 "D" V 1705 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 1750 2300 50  0001 C CNN
+F 3 "~" H 1750 2300 50  0001 C CNN
+	1    1750 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW56
+U 1 1 5F75ED06
+P 6300 2150
+F 0 "SW56" H 6300 2435 50  0000 C CNN
+F 1 "SW_Push" H 6300 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6300 2350 50  0001 C CNN
+F 3 "~" H 6300 2350 50  0001 C CNN
+	1    6300 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW61
+U 1 1 5F75ED10
+P 6950 2150
+F 0 "SW61" H 6950 2435 50  0000 C CNN
+F 1 "SW_Push" H 6950 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 6950 2350 50  0001 C CNN
+F 3 "~" H 6950 2350 50  0001 C CNN
+	1    6950 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW66
+U 1 1 5F75ED1A
+P 7600 2150
+F 0 "SW66" H 7600 2435 50  0000 C CNN
+F 1 "SW_Push" H 7600 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 7600 2350 50  0001 C CNN
+F 3 "~" H 7600 2350 50  0001 C CNN
+	1    7600 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW67
+U 1 1 5F75ED24
+P 8250 2150
+F 0 "SW67" H 8250 2435 50  0000 C CNN
+F 1 "SW_Push" H 8250 2344 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 8250 2350 50  0001 C CNN
+F 3 "~" H 8250 2350 50  0001 C CNN
+	1    8250 2150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D D66
+U 1 1 5F75ED2E
+P 7400 2300
+F 0 "D66" V 7446 2221 50  0000 R CNN
+F 1 "D" V 7355 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 7400 2300 50  0001 C CNN
+F 3 "~" H 7400 2300 50  0001 C CNN
+	1    7400 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D67
+U 1 1 5F75ED38
+P 8050 2300
+F 0 "D67" V 8096 2221 50  0000 R CNN
+F 1 "D" V 8005 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 8050 2300 50  0001 C CNN
+F 3 "~" H 8050 2300 50  0001 C CNN
+	1    8050 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5F75ED42
+P 2350 2300
+F 0 "D18" V 2396 2221 50  0000 R CNN
+F 1 "D" V 2305 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 2350 2300 50  0001 C CNN
+F 3 "~" H 2350 2300 50  0001 C CNN
+	1    2350 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 5F75ED4C
+P 3000 2300
+F 0 "D28" V 3046 2221 50  0000 R CNN
+F 1 "D" V 2955 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3000 2300 50  0001 C CNN
+F 3 "~" H 3000 2300 50  0001 C CNN
+	1    3000 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 5F75ED56
+P 3650 2300
+F 0 "D35" V 3696 2221 50  0000 R CNN
+F 1 "D" V 3605 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 3650 2300 50  0001 C CNN
+F 3 "~" H 3650 2300 50  0001 C CNN
+	1    3650 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D45
+U 1 1 5F75ED60
+P 4300 2300
+F 0 "D45" V 4346 2221 50  0000 R CNN
+F 1 "D" V 4255 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 4300 2300 50  0001 C CNN
+F 3 "~" H 4300 2300 50  0001 C CNN
+	1    4300 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D50
+U 1 1 5F75ED6A
+P 5450 2300
+F 0 "D50" V 5496 2221 50  0000 R CNN
+F 1 "D" V 5405 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 5450 2300 50  0001 C CNN
+F 3 "~" H 5450 2300 50  0001 C CNN
+	1    5450 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D56
+U 1 1 5F75ED74
+P 6100 2300
+F 0 "D56" V 6146 2221 50  0000 R CNN
+F 1 "D" V 6055 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6100 2300 50  0001 C CNN
+F 3 "~" H 6100 2300 50  0001 C CNN
+	1    6100 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D61
+U 1 1 5F75ED7E
+P 6750 2300
+F 0 "D61" V 6796 2221 50  0000 R CNN
+F 1 "D" V 6705 2221 50  0000 R CNN
+F 2 "pineapple50:Diode_TH_SOD123" H 6750 2300 50  0001 C CNN
+F 3 "~" H 6750 2300 50  0001 C CNN
+	1    6750 2300
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3400 2150
+Wire Wire Line
+	1750 2450 2350 2450
+Connection ~ 1750 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	2350 2450 3000 2450
+Connection ~ 3000 2450
+Wire Wire Line
+	3000 2450 3650 2450
+Connection ~ 3650 2450
+Wire Wire Line
+	3650 2450 4300 2450
+Connection ~ 4300 2450
+Connection ~ 5450 2450
+Wire Wire Line
+	5450 2450 6100 2450
+Connection ~ 6100 2450
+Wire Wire Line
+	6100 2450 6750 2450
+Connection ~ 6750 2450
+Wire Wire Line
+	6750 2450 7400 2450
+Connection ~ 7400 2450
+Wire Wire Line
+	7400 2450 8050 2450
+Connection ~ 8450 2150
+Connection ~ 7800 2150
+Connection ~ 7150 2150
+Connection ~ 6500 2150
+Connection ~ 5850 2150
+Connection ~ 4700 2150
+Connection ~ 4050 2150
+Connection ~ 2750 2150
+Connection ~ 2150 2150
+Wire Wire Line
+	1500 1700 1500 2150
+Wire Wire Line
+	2750 1700 2750 2150
+Wire Wire Line
+	3400 1700 3400 2150
+Wire Wire Line
+	4050 1700 4050 2150
+Wire Wire Line
+	6500 1700 6500 2150
+Wire Wire Line
+	7150 1700 7150 2150
+Wire Wire Line
+	7800 1700 7800 2150
+Wire Wire Line
+	8450 1700 8450 2150
+Wire Wire Line
+	2150 2150 2150 1700
+Wire Wire Line
+	2150 2150 2150 2900
+Wire Wire Line
+	1500 2150 1500 2900
+Wire Wire Line
+	3400 2150 3400 2900
+Wire Wire Line
+	8450 2150 8450 2900
+Wire Wire Line
+	7800 2150 7800 2900
+Wire Wire Line
+	7150 2150 7150 2900
+Wire Wire Line
+	6500 2150 6500 2900
+Wire Wire Line
+	5850 2150 5850 2900
+Wire Wire Line
+	4700 2150 4700 2900
+Wire Wire Line
+	4050 2150 4050 2900
+Wire Wire Line
+	2750 2150 2750 2900
+Wire Wire Line
+	8050 4700 8700 4700
+Connection ~ 8050 4700
+Connection ~ 8700 4700
+Wire Wire Line
+	8700 4700 9350 4700
+Wire Wire Line
+	8050 3950 8700 3950
+Connection ~ 8050 3950
+Connection ~ 8700 3950
+Wire Wire Line
+	8700 3950 9350 3950
+Wire Wire Line
+	8050 3200 8700 3200
+Connection ~ 8050 3200
+Connection ~ 8700 3200
+Wire Wire Line
+	8700 3200 9350 3200
+Text GLabel 10000 2450 2    50   Input ~ 0
+row0
+Wire Wire Line
+	10000 2450 8050 2450
+Connection ~ 8050 2450
+Wire Wire Line
+	1500 5150 1500 4400
+Connection ~ 1500 4400
+Connection ~ 2150 4400
+Wire Wire Line
+	2150 4400 2150 5150
+Wire Wire Line
+	2750 4400 2750 5150
+Connection ~ 2750 4400
+Wire Wire Line
+	3400 4400 3400 5150
+Connection ~ 3400 4400
+Wire Wire Line
+	4050 4400 4050 5150
+Connection ~ 4050 4400
+Connection ~ 4700 4400
+Wire Wire Line
+	3650 5450 4300 5450
+Connection ~ 3650 5450
+Wire Wire Line
+	6100 5450 6750 5450
+Connection ~ 6100 5450
+Connection ~ 6750 5450
+Wire Wire Line
+	6750 5450 7400 5450
+Text GLabel 6750 6200 2    50   Input ~ 0
+row5
+Wire Wire Line
+	5450 4700 6100 4700
+Connection ~ 5850 4400
+Wire Wire Line
+	6500 4400 6500 5150
+Connection ~ 6500 4400
+Wire Wire Line
+	8450 5150 8450 4400
+Connection ~ 8450 4400
+Wire Wire Line
+	7800 3650 7800 4400
+Connection ~ 7800 4400
+Wire Wire Line
+	7800 4400 7800 5150
+Connection ~ 7150 4400
+Wire Wire Line
+	7150 4400 7150 5150
+Text GLabel 2800 6250 2    50   Input ~ 0
+row5
+Wire Wire Line
+	2650 7150 2800 7150
+Wire Wire Line
+	4300 5450 5450 5450
+Wire Wire Line
+	4050 5150 4050 5550
+Wire Wire Line
+	4050 5550 4600 5550
+Wire Wire Line
+	4600 5550 4600 5900
+Connection ~ 4050 5150
+Wire Wire Line
+	4700 5650 5350 5650
+Wire Wire Line
+	5350 5650 5350 5900
+Wire Wire Line
+	4700 4400 4700 5150
+Connection ~ 4700 5150
+Wire Wire Line
+	4700 5150 4700 5650
+Wire Wire Line
+	4700 1700 4700 2150
+Wire Wire Line
+	4300 2450 5450 2450
+Wire Wire Line
+	5850 1700 5850 2150
+Wire Wire Line
+	5850 4400 5850 5150
+Wire Wire Line
+	4850 6200 5850 6200
+Wire Wire Line
+	6250 5900 6250 5550
+Wire Wire Line
+	6250 5550 5850 5550
+Wire Wire Line
+	5850 5550 5850 5150
+Connection ~ 5850 5150
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5FB05A9D
+P 4050 7100
+F 0 "H1" H 4150 7146 50  0000 L CNN
+F 1 "MountingHole" H 4150 7055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 4050 7100 50  0001 C CNN
+F 3 "~" H 4050 7100 50  0001 C CNN
+	1    4050 7100
+	1    0    0    -1  
+$EndComp
+Text GLabel 1450 6350 0    50   Input ~ 0
+col8
+Connection ~ 1500 3650
+Wire Wire Line
+	1500 2900 1500 3650
+Wire Wire Line
+	1500 3650 1500 4400
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5F64EA40
+P 1300 3650
+F 0 "SW2" H 1300 3935 50  0000 C CNN
+F 1 "SW_Push" H 1300 3844 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1300 3850 50  0001 C CNN
+F 3 "~" H 1300 3850 50  0001 C CNN
+	1    1300 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5F6355F7
+P 1300 2900
+F 0 "SW1" H 1300 3185 50  0000 C CNN
+F 1 "SW_Push" H 1300 3094 50  0000 C CNN
+F 2 "kailh-pg1425-x-switch:MX-ALPS-Choc-X-straight-oneside" H 1300 3100 50  0001 C CNN
+F 3 "~" H 1300 3100 50  0001 C CNN
+	1    1300 2900
+	-1   0    0    -1  
+$EndComp
+$EndSCHEMATC
