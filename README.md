@@ -23,3 +23,8 @@ The purposes for this project.
 
 ![on Thinkpad T470s](p60-01/Thinkpad_T470s.jpg)
 ![on Trackpoint keyboard](p60-01/Trackpoint_keyboard.jpg)
+
+## SNS
+https://twitter.com/saoto28
+
+https://www.reddit.com/user/saoto28/posts/
