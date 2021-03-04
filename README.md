@@ -23,3 +23,8 @@ The purposes for this project.
 
 ![on Thinkpad T470s](p60-01/Thinkpad_T470s.jpg)
 ![on Trackpoint keyboard](p60-01/Trackpoint_keyboard.jpg)
+
+## Origin of the name "Pineapple"
+- Because here is tropical Okinawa
+- Respect "fruity60" and Adafruit
+- Rebel against Apple
