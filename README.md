@@ -13,6 +13,11 @@ The purposes for this project.
 - ~~Enable the center button scroll for Trackpoint keyboard~~
 - Combine the USB connection between this new board and the original Trackpoint keyboard board.
 
+## p4
+2020-03 key layout testing module
+![X-BOWS like](p4/p4_x-bows.jpg)
+![pcb](p4/p4_pcb.jpg)
+
 ## p60-02
 2020-12 second prototype pcb
 ![on Thinkpad T470s](p60-02/Thinkpad_T470s.jpg)
