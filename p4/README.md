@@ -1,9 +1,9 @@
-## p60-01
-2020-10 first prototype pcb
+## p4
+2020-03 key layout testing module
 
-No good points:
-- It was better to tilt the keys for the looks.
-- Too much distance between "N" and "I"
-- The Trackpoint position should be the same as the original position. Because the casing has a groove.
-- Less space for the USB plug.
+![schematic](p4_schematic.png)
+![layout](p4_layout.png)
+
+### Example wiring connection
+![connection](p4_connection.png)
 
