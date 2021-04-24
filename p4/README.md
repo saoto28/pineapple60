@@ -1,5 +1,6 @@
 ## p4
 2020-03 key layout testing module
+![pcb](p4_pcb.jpg)
 
 ### X-BOWS like
 I feel "T" and "Y" are far from the home position.
@@ -13,8 +14,10 @@ I feel "B" and "N" are far from the home position.
 And it is not easy to type "N->I" and "B->E".
 ![atreus like](p4_atreus.jpg)
 
-![pcb](p4_pcb.jpg)
+### My favorite
+![favorite](p4_20210411.jpg)
 
+### Drawing
 ![schematic](p4_schematic.png)
 ![layout](p4_layout.png)
 
