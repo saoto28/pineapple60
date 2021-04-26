@@ -12,3 +12,7 @@ Current concerns :
 
 - ~~Connection with the Trackpoint module (for the Ergo Keyboard)~~
 - Combine the two USB connections between new board and original board (for the Ergo Keyboard)
+
+[Schmatic](p60-02_sch.pdf)
+
+[PCB](p60-02_pcb.pdf)
