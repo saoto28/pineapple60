@@ -14,7 +14,7 @@ The purposes for this project.
 
 ## p4
 2020-03 key layout testing [module](p4/README.md)
-![X-BOWS like](p4/p4_x-bows.jpg)
+![favorite](p4/p4_20210411.jpg)
 
 ## p60-02
 2020-12 second prototype [pcb](p60-02/README.md)

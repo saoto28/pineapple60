@@ -8,3 +8,6 @@ Modifications from p60-02:
 - Move the MCU to an additional small pcb for the Thinkpad
 - Connect the USB line inside the Thinkpad through the small pcb
 
+[Schmatic](p60-03_sch.pdf)
+
+[PCB](p60-03_pcb.pdf)
