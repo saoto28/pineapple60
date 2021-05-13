@@ -9,7 +9,7 @@
 - Trackpoint cap: by [Saoto-Tech](https://www.etsy.com/shop/SaotoTech) (myself)
 
 
-## Assemble the borad
+## Assemble the board
 
 ## Install the software
 

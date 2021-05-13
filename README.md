@@ -9,8 +9,7 @@ The purposes for this project.
 
 ## p60-03
 2021-04 third prototype [pcb](p60-03/README.md)
-
-<strong>Waiting for production</strong>
+![on Trackpoint keyboard](p60-03/Trackpoint_keyboard_p60-03.jpg)
 
 ## p4
 2020-03 key layout testing [module](p4/README.md)

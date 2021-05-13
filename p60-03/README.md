@@ -1,5 +1,6 @@
 ## p60-03
 2021-04 third prototype pcb
+![PCB](pcb_p60-03.jpg)
 
 Modifications from p60-02:
 - Modify the key layout according to trial results on p4 pcb 
