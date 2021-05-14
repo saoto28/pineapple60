@@ -3,9 +3,9 @@ ergonomic keyboard with Trackpoint
 
 The purposes for this project.
 - Install inside ThinkPad T470s (compatible with T460s)
-- Install inside the Trackpoint keyboard (KU-1255 and KT-1255)
+- Install inside the Trackpoint keyboard (KU-1255 ~~and KT-1255~~)
 
-(Because they are alomost same size.)
+(They are alomost same size.)
 
 ## p60-03
 2021-04 third prototype [pcb](p60-03/README.md)
