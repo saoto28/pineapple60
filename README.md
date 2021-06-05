@@ -1,7 +1,7 @@
 # pineapple60
 ergonomic keyboard with Trackpoint
 
-The purposes for this project.
+The purposes of this project.
 - Install inside ThinkPad T470s (compatible with T460s)
 - Install inside the Trackpoint keyboard (KU-1255 ~~and KT-1255~~)
 

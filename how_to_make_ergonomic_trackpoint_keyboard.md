@@ -8,9 +8,11 @@
     (The choc is higher than the original key switch. The Kailh [X Switch](https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/thin-notebook-mechanical-key-switch.html) is similar height as the original. But, expensive)
 - Keycaps x68 pcs
 - SMD Diodes: 1N4148W or similar x 68 pcs
-- Tactile switch: C&K [KMR231NG LFS](https://www.digikey.jp/product-detail/ja/c-k/KMR231NG-LFS/CKN10246CT-ND/2176497) or compatible x 1 pcs
+- Tactile switch: C&K [KMR211NG LFS](https://www.digikey.com/en/products/detail/c-k/KMR211NG-LFS/2176494) or compatible x 1 pcs
 - Base keyboard: Lenovo ThinkPad Compact USB Keyboard with TrackPoint [KU-1255/0B47190](https://support.lenovo.com/us/en/solutions/pd026745-thinkpad-compact-usb-keyboard-with-trackpoint-overview-and-service-parts) x 1 pcs
+- bolts and nuts: M2.5 x 3mm x 3 sets
 - Trackpoint cap: by [Saoto-Tech](https://www.etsy.com/shop/SaotoTech) (optional) x 1pcs
+- etc: Kapton tape, double-sided tape, solder 
 
 When you don't use the original mouse button switches,
 - additional key switches: Kailh chocs or X-switches w/caps x 3 pcs
@@ -31,7 +33,7 @@ How to put the diodes.
 (1)Put some solder on one side.
 ![put_diode0](pics/put_diode0.jpg)
 
-(2)Solder one side of the diode.
+(2)Solder one side of the diode. Attention the orientation.
 ![put_diode2](pics/put_diode2.jpg)
 (3)Solder another side of the diode.
 ![put_diode3](pics/put_diode3.jpg)
@@ -56,7 +58,7 @@ Put insulating tape on the back side.
 Solder the pin legs to the MCU.
 ![solder pin](pics/05_solder_pins.jpg)
 
-Then, put the MCU on the PCB.
+Then, put the MCU back side of the PCB. Attention: It is very difficult to exchange the key switch after putting the MCU.
 ![put MCU](pics/06_put_mcu.jpg)
 
 At last,
@@ -102,8 +104,8 @@ Note! Don't break the buttons.
 I cut out the unnecessary part of the sheet. But, this is the sheet of Japanese keyboard. If you will cut the sheet, investigate the necessary circuit area of the mouse switches for your keyboard.
 ![13](pics/disassemble_keyboard13.jpg)
 
-
-
 ## When you don't use the original mouse button switches of the Thinkpad keyboard
+
+## Install the keyboard in the case
 
 ## Install the software
