@@ -8,6 +8,10 @@ Modifications from p60-03:
 - Fix some circuits for mouse buttons
 ![PCB](pcb_p60-03b.jpg)
 
+[Schmatic](p60-03b_sch.pdf)
+
+[PCB](p60-03b_pcb.pdf)
+
 ## p60-03
 2021-04 third prototype pcb
 
@@ -25,6 +29,3 @@ Modifications from p60-02:
 - Move the MCU to an additional small pcb for the Thinkpad
 - Connect the USB line inside the Thinkpad through the small pcb
 
-[Schmatic](p60-03_sch.pdf)
-
-[PCB](p60-03_pcb.pdf)

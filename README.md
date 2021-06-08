@@ -10,6 +10,9 @@ The purposes of this project.
 ## p60-03
 2021-04 third prototype [pcb](p60-03/README.md)
 ![on Trackpoint keyboard](p60-03/Trackpoint_keyboard_p60-03.jpg)
+
+2021-05 modified version p60-03b
+![on Trackpoint keyboard](p60-03/Trackpoint_keyboard_p60-03b.jpg)
 [how to make the ergonomic Trackpoint keyboard](how_to_make_ergonomic_trackpoint_keyboard.md)
 
 
