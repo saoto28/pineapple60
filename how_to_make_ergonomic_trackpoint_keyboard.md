@@ -2,15 +2,18 @@
 
 ## Parts list
 - Base keyboard: Lenovo ThinkPad Compact USB Keyboard with TrackPoint [KU-1255/0B47190](https://support.lenovo.com/us/en/solutions/pd026745-thinkpad-compact-usb-keyboard-with-trackpoint-overview-and-service-parts) x 1 pcs
+
+    (You can not install this PCB in the Bluetooth Keyboard [KT-1255], because the MCU position was used for the battery.)
+
 - PCB: [Pineapple60-03b](https://www.etsy.com/shop/SaotoTech) x 1 pcs
-- MCU: Adafruit ItsyBitsy 32u4 - 5V x 1 pcs
+- MCU: Adafruit [ItsyBitsy 32u4](https://learn.adafruit.com/introducting-itsy-bitsy-32u4) - 5V x 1 pcs
 
     (3.3V type is not usable. Because the #5 pin is a special output-only pin.)
 - Key switches: Kaih [choc](https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/linear-mechanical-keyboard-switches.html) x 68 pcs
 
     (The choc is higher than the original key switch. The Kailh [X Switch](https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/thin-notebook-mechanical-key-switch.html) is similar height as the original. But, expensive)
 - Keycaps x68 pcs
-- SMD Diodes: 1N4148W or similar x 68 pcs
+- SMD Diodes: 1N4148W or similar SOD123 type x 68 pcs
 - Reset switch: C&K [KMR211NG LFS](https://www.digikey.com/en/products/detail/c-k/KMR211NG-LFS/2176494) or compatible x 1 pcs
 
 - bolts and nuts for fixing the Trackpoint module: M2.5 x 3mm x 3 sets
@@ -186,3 +189,11 @@ Don' forget to connect the FFCs.
 
 
 ## Install the software
+
+Refer [QMK](https://docs.qmk.fm) Firmware.
+
+My QMK example [here](qmk_firmware).
+
+
+About Itsybitsy 32u4,
+- Double click for resetting
