@@ -193,7 +193,11 @@ Don' forget to connect the FFCs.
 Refer [QMK](https://docs.qmk.fm) Firmware.
 
 My QMK example [here](qmk_firmware).
+- 3 Layers: Base, FN, NUM
+- This arrangement is usable even if there is no top line key caps
+- The default keymap is for English keyboard. 
+  The jis keymap is for Japanese keyboaard
 
 
 About Itsybitsy 32u4,
-- Double click for resetting
+- Double click the rset button for resetting
