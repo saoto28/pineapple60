@@ -12,6 +12,7 @@ Modifications from p60-03:
 
 [PCB](p60-03b_pcb.pdf)
 
+
 ## p60-03
 2021-04 third prototype pcb
 
@@ -21,6 +22,13 @@ Features
 - Compatible key switches: 
 Kailh choc and X-switch, MX(unconfirmed), and ALPS(unconfirmed)
 ![PCB](pcb_p60-03.jpg)
+
+with Kailh choc switches
+![on Trackpoint keyboard](Trackpoint_keyboard_p60-03.jpg)
+
+with Kailh x-switches
+![on Trackpoint keyboard](Trackpoint_keyboard_p60-03_xswitch.jpg)
+
 
 Modifications from p60-02:
 - Modify the key layout according to trial results on p4 pcb 
