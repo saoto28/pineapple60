@@ -1,6 +1,18 @@
 # How to make the ergonomic Trackpoint keyboard with P60-03b
 
-## Parts list
+1. [Parts list](#sec1)
+1. [Side view](#sec2)
+1. [Assemble the board](#sec3)
+1. [disassemble the Thinkpad Compact keyboard](#sec4)
+1. [Use the original mouse button switches of the Thinkpad keyboard](#sec5)
+1. [When you don't use the original mouse button switches](#sec6)
+1. [Install the keyboard in the case](#sec7)
+1. [Install the software](#sec8)
+
+<a id="sec1"></a>
+
+## 1. Parts list
+
 - Base keyboard: Lenovo ThinkPad Compact USB Keyboard with TrackPoint [KU-1255/0B47190](https://support.lenovo.com/us/en/solutions/pd026745-thinkpad-compact-usb-keyboard-with-trackpoint-overview-and-service-parts) x 1 pcs
 
     (You can not install this PCB in the Bluetooth Keyboard [KT-1255], because the MCU position was used for the battery.)
@@ -25,14 +37,20 @@ When you don't use the original mouse button switches,
 - FFC connector:  	Würth Elektronik  [686104183522](https://www.digikey.jp/product-detail/en/w%C3%BCrth-elektronik/686104183522/732-11326-1-ND/7087352) or compatible x 1 pcs
 - FFC cable: [4pos, 1.0mm pitch, more than 115mm length](https://www.digikey.jp/product-detail/en/molex/0152670709/WM22903-ND/4427461) or Compatible x 1 pcs
 
-## Side view
+<a id="sec2"></a>
+
+## 2. Side view
+
 ### with Kailh choc switches
 ![side](pics/TP_KB_p60-03b_side.jpg)
 
 ### with Kailh X-switches
 ![side](pics/TP_KB_p60-03_xswitch_side.jpg)
 
-## Assemble the board
+<a id="sec3"></a>
+
+## 3. Assemble the board
+
 Cut the pcb. 
 If you don't use the original mouse button switches of the keyboard, don't remove the base plate of three mouse switches. 
 ![See here](pics/01_cut_pcb1b.jpg)
@@ -102,21 +120,27 @@ At last,
 
 ver. p60-03b has a footprint for the center key switch. When putting the key switch, it is necessary to modify the keycap to avoid interference with the Trackpoint.
 
-## disassemble the Thinkpad Compact keyboard
+<a id="sec4"></a>
+
+## 4. disassemble the Thinkpad Compact keyboard
 
 Open the Trackpoint keyboard. Just pull up the frame. I feel The front center part is easy to come off.
 ![1](pics/disassemble_keyboard1.jpg)
 ![2](pics/disassemble_keyboard2.jpg)
 ![3](pics/disassemble_keyboard3.jpg)
 
-Remove the keyboard plate. It's just glued. The plate can be peeled off, though it is very hard. 
+Remove the keyboard plate. It's just glued, but strongly. The plate can be peeled off, though it is very hard. 
 Don't forget to disconnect the FFC cable early on.
 ![4](pics/disassemble_keyboard4.jpg)
 
 Remove the Trackpoint module from the keyboard plate.
 
-## Remove the mouse button part
-If you want to use the original mouse button switches, you have to break the keyboard here, and it is quite troublesome. (If you don't want to do, go to "When you don't use the original mouse button switches".)
+If you like, attach the steel plate weight on the back of the keyboard to the case. 
+
+<a id="sec5"></a>
+
+## 5. Use the original mouse button switches of the Thinkpad keyboard
+If you want to use the original mouse button switches, you have to break the keyboard here, and it is quite troublesome.  (If you don't want to do, go to "[When you don't use the original mouse button switches](#sec6)".)
 
 (1)At first, pull off the separator plate(?) excluding the mouse button part. It is just pulled off. 
 ![5](pics/disassemble_keyboard5.jpg)
@@ -162,7 +186,9 @@ Tape the mouse switch part on the case.
 ![20](pics/assemble_keyboard06.jpg)
 
 
-## When you don't use the original mouse button switches of the Thinkpad keyboard
+<a id="sec6"></a>
+
+## 6. When you don't use the original mouse button switches
 
 Solder the 4 pins FFC connector on the backside.
 ![30](pics/connect_mouse_switch01.jpg)
@@ -174,26 +200,29 @@ Fold the extra length of the FFC off the board.
 And install 3 switches for the mouse buttons. For the mouse switches, direct connections are enough instead of the diodes.
 ![32](pics/connect_mouse_switch03.jpg)
 
-## Install the keyboard in the case
+<a id="sec7"></a>
+
+## 7. Install the keyboard in the case
 
 Install the Trackpoint module with the bolts and nuts. And cut the extra bolts.
 ![30](pics/assemble_keyboard10.jpg)
 
 Cut out the USB plug part of the case.
-Put insulating tapes on the metal plates.
+Put insulating tapes on the metal plates, if you put the metal plates.
 ![31](pics/assemble_keyboard11.jpg)
 
 Then you can install the keyboard and cover.
 Don' forget to connect the FFCs.
 ![40](pics/assemble_keyboard20.jpg)
 
+<a id="sec8"></a>
 
-## Install the software
+## 8. Install the software
 
 Refer [QMK](https://docs.qmk.fm) Firmware.
 
 My QMK example [here](qmk_firmware).
-- 3 Layers: Base, FN, NUM
+- 3 Layers: Base, FNC, NUM
 - This arrangement is usable even if there is no top line key caps
 - The default keymap is for English keyboard. 
   The jis keymap is for Japanese keyboaard
