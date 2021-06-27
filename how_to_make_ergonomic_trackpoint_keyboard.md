@@ -163,8 +163,11 @@ Note! Don't break the buttons.
 (6) You can use the FPC after peeling off the membrane.
 ![12](pics/disassemble_keyboard12.jpg)
 
-I cut out the unnecessary part of the sheet, for avoiding unintended keyswitch reactions. But, this is the sheet of Japanese keyboard. If you will cut the sheet, investigate the necessary circuit area of the mouse switches for your keyboard.
+I cut out the unnecessary part of the sheet, for avoiding unintended keyswitch reactions. But, when the cut part gets wet, it may make abnormal contact. It may be better not to cut more than necessary.
+And also, this is the sheet of Japanese keyboard. If you will cut the sheet, investigate the necessary circuit area of the mouse switches for your keyboard.
 ![13](pics/disassemble_keyboard13.jpg)
+
+You can see a pic how to cut the US keyboard menbraine sheet [in this web site](https://amaya382.hatenablog.jp/entry/2015/08/14/015954).
 
 It seems enough to cut the key switche lines of the FFC for avoiding unintended keyswitch reactions. Because the mouse switches need only four lines of right side.
 ![14](pics/disassemble_keyboard14.jpg)
