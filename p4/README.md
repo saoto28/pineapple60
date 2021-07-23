@@ -14,8 +14,12 @@ I feel "B" and "N" are far from the home position.
 And it is not easy to type "N->I" and "B->E".
 ![atreus like](p4_atreus.jpg)
 
-### My favorite
-![favorite](p4_20210411.jpg)
+### March's favorite
+![March's](p4_20210411.jpg)
+
+### New favorite - V style
+![favorite](p4_20210720.jpg)
+[How to make V style](How_to_make_the_V-style.pdf)
 
 ### Drawing
 ![schematic](p4_schematic.png)
