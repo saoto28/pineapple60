@@ -7,6 +7,17 @@ The purposes of this project.
 
 (They are alomost same size.)
 
+## p60X
+Variable key layout board for researching ergonomic keyboard layouts
+
+< 2021-09 coming soon >
+
+## p50V
+V-style key layout [board](p50V/README.md)
+
+2021-08 installed on my T470s
+![on ThinkPad T470s](p50V/ThinkPad_T470s-p50V.jpg)
+
 ## p60-03
 third prototype [pcb](p60-03/README.md)
 

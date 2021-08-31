@@ -124,6 +124,8 @@ ver. p60-03b has a footprint for the center key switch. When putting the key swi
 
 ## 4. disassemble the Thinkpad Compact keyboard
 
+(ref: from 7:30 of https://www.youtube.com/watch?v=dql8XsqlqxE)
+
 Open the Trackpoint keyboard. Just pull up the frame. I feel The front center part is easy to come off.
 ![1](pics/disassemble_keyboard1.jpg)
 ![2](pics/disassemble_keyboard2.jpg)
