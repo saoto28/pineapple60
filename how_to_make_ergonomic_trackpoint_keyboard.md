@@ -78,11 +78,8 @@ When you use the original mouse switches of the keyboard, remove the base.
 
 ![put_sw1](pics/put_sw1.jpg)
 
-(2)Cut the all protrusions. In this time, push the key switch fully.
-
+(2)Cut all protrusions. In this time, push the key switch fully. Otherwise,  the cut surface is deformed.
 ![put_sw3](pics/put_sw3.jpg)
-
-(3)The inside shaft also cut.
 
 ![put_sw4](pics/put_sw4.jpg)
 
@@ -110,6 +107,7 @@ After soldering all pads, you should check all connections by the tester. Actual
 ![test](pics/06_test_mcu.jpg)
 
 Put a reset switch
+
 ![reset](pics/07_put_reset.jpg)
 
 
@@ -165,30 +163,56 @@ Note! Don't break the buttons.
 (6) You can use the FPC after peeling off the membrane.
 ![12](pics/disassemble_keyboard12.jpg)
 
-I cut out the unnecessary part of the sheet, for avoiding unintended keyswitch reactions. But, when the cut part gets wet, it may make abnormal contact. It may be better not to cut more than necessary.
-And also, this is the sheet of Japanese keyboard. If you will cut the sheet, investigate the necessary circuit area of the mouse switches for your keyboard.
-![13](pics/disassemble_keyboard13.jpg)
+<!-- I cut out the unnecessary part of the sheet, for avoiding unintended keyswitch reactions. But, when the cut part gets wet, it may make abnormal contact. It may be better not to cut more than necessary. -->
+At least, you should cut 4 parts.
+- for avoiding unintended keyswitch reactions. We need only 4 lines of connector for the mouse switches.
+- for the Trackpoint module
+- for the MCU place
+- for the FPC connector of the Trackpoint module
 
-You can see a pic how to cut the US keyboard menbraine sheet [in this web site](https://amaya382.hatenablog.jp/entry/2015/08/14/015954).
+![13](pics/disassemble_keyboard13a.jpg)
+<!-- ![13](pics/disassemble_keyboard13.jpg) --->
 
-It seems enough to cut the key switche lines of the FFC for avoiding unintended keyswitch reactions. Because the mouse switches need only four lines of right side.
-![14](pics/disassemble_keyboard14.jpg)
+This pic is the sheet of Japanese keyboard. If you will cut the sheet, investigate the necessary circuit area of the mouse switches for your keyboard.
 
+You can see a pic how you can cut the US keyboard menbraine sheet [in this web site](https://amaya382.hatenablog.jp/entry/2015/08/14/015954).
+
+<!-- The mouse switches need only four lines of right side.
+![14](pics/disassemble_keyboard14.jpg) -->
+
+<!--
 Remove unnecessary parts.
 ![15](pics/assemble_keyboard01.jpg)
-![16](pics/assemble_keyboard02.jpg)
+![16](pics/assemble_keyboard02.jpg) -->
 
-Put the rubber parts and some double-sided tapes on the backside.
-![17](pics/assemble_keyboard03.jpg)
+![15](pics/assemble_keyboard01a.jpg)
+![16](pics/assemble_keyboard02a.jpg)
+![17](pics/assemble_keyboard03a.jpg)
 
-Put the membrane sheet in the correct poition on it. And put some double-sided tapes again.
-![18](pics/assemble_keyboard04.jpg)
+<!-- ![17](pics/assemble_keyboard03.jpg) -->
+<!-- ![18](pics/assemble_keyboard04.jpg) -->
 
-Put the backplate in the correct position on it. Sorry, I forgot to make two holes on the plate. Make two holes like the pic on the plate before putting.
-![19](pics/assemble_keyboard05.jpg)
+Put the rubber parts and some double-sided tapes on the membrane sheet.
 
-Tape the mouse switch part on the case.
-![20](pics/assemble_keyboard06.jpg)
+![18](pics/assemble_keyboard04a.jpg)
+
+Put the sheet in the correct position on it.
+
+![18](pics/assemble_keyboard04b.jpg)
+
+Put the backplate in the correct position on it with some double-sided tape. Sorry, I forgot to make two holes on the plate. Make two holes like the pic on the plate before putting, for avoiding touching the button's parts.
+
+<!-- ![19](pics/assemble_keyboard05.jpg) -->
+![19](pics/assemble_keyboard05a.jpg)
+
+Tape the mouse switch plate on the case for increasing height.
+
+<!-- ![20](pics/assemble_keyboard06.jpg)  -->
+![20](pics/assemble_keyboard06a.jpg)
+
+Tape the switches and sheet on it.
+
+![20](pics/assemble_keyboard06b.jpg)
 
 
 <a id="sec6"></a>
@@ -203,6 +227,7 @@ Connect to the right side of the large connector of the casing by the 4 pins FFC
 
 Fold the extra length of the FFC off the board.
 And install 3 switches for the mouse buttons. For the mouse switches, direct connections are enough instead of the diodes.
+
 ![32](pics/connect_mouse_switch03.jpg)
 
 <a id="sec7"></a>
@@ -218,7 +243,13 @@ Put insulating tapes on the metal plates, if you put the metal plates.
 
 Then you can install the keyboard and cover.
 Don' forget to connect the FFCs.
-![40](pics/assemble_keyboard20.jpg)
+
+<!-- ![40](pics/assemble_keyboard20.jpg) -->
+![40](pics/assemble_keyboard20a.jpg)
+
+The PCB should be under the mouse switch plate.
+
+![41](pics/assemble_keyboard20b.jpg)
 
 <a id="sec8"></a>
 
