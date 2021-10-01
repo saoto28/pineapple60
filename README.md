@@ -43,6 +43,10 @@ third prototype [pcb](p60-03/README.md)
 ![on Thinkpad T470s](p60-01/Thinkpad_T470s.jpg)
 ![on Trackpoint keyboard](p60-01/Trackpoint_keyboard.jpg)
 
+## pre-pineapple
+2020-08 I tried to make an ergonomic keyboard for my ThinkPad T470s, by disassembling and modifying the spare keyboard. But, gave up.
+![pre-pineapple](pics/pre-pineapple202009.jpg)
+
 ## SNS
 https://twitter.com/saoto28
 
