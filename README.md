@@ -13,7 +13,7 @@ Extra edition. Trackpoint module installation.
 
 2021-10 Add the Trackpoint module of ThinkPad X100 on the Microsoft Ergonomic Keyboard.
 
-[How to install the Trackpoint module in the MS ergonomic keyboard](p0/How_to_modify_MS_ergonomic_keyboard.htm)
+[How to install the Trackpoint module in the MS ergonomic keyboard](p0/How_to_modify_MS_ergonomic_keyboard.pdf)
 
 ![microsoft_ergonomic](p0/microsoft_ergonomic-x100.jpg)
 
