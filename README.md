@@ -9,7 +9,7 @@ The purposes of this project.
 
 Row-Staggered Ergonomic keyboard with Kailh PG1316 for installing ThinkPad X13 Gen2
 
-![pineapple 60S](p60s/p60s.jpg)
+![pineapple 60S](p60S/p60s.jpg)
 
 ## p0
 
