@@ -2,10 +2,14 @@
 ergonomic keyboard with Trackpoint
 
 The purposes of this project.
-- Install inside ThinkPad T470s (compatible with T460s)
-- Install inside the Trackpoint keyboard (KU-1255 ~~and KT-1255~~)
+- Install it in ThinkPad
 
-(They are alomost same size.)
+## p60S
+2025 new project
+
+Row-Staggered Ergonomic keyboard with Kailh PG1316 for installing ThinkPad X13 Gen2
+
+![pineapple 60S](p60s/p60s.jpg)
 
 ## p0
 
@@ -17,11 +21,12 @@ Extra edition. Trackpoint module installation.
 
 ![microsoft_ergonomic](p0/microsoft_ergonomic-x100.jpg)
 
-## p60X
 
-Variable key layout board for researching ergonomic keyboard layouts
+~~## p60X~~
 
-< 2021-09 coming soon >
+~~Variable key layout board for researching ergonomic keyboard layouts~~
+
+~~< 2021-09 coming soon >~~
 
 ## p50V
 
