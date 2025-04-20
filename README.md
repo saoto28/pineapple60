@@ -11,6 +11,18 @@ Row-Staggered Ergonomic keyboard with Kailh PG1316 for installing ThinkPad X13 G
 
 ![pineapple 60S](p60S/x13g2_v10.png)
 
+For this modification, I chose the target PC for the following reasons:
+- It has a Trackpoint
+- The keyboard can be easily replaced (the latest ThinkPads are getting difficult)
+- The Trackpoint buttons should be on the case, not on the keyboard unit. Otherwise, I would need to attach the buttons to the keyboard I was making.
+
+The following ThinkPads meet the above requirements:
+- T440 to T460, and so on
+- T460s and T470s
+- X13 Gen2 and Gen3
+
+X240 to X270 are also close, but we need to remove the motherboard to remove the keyboard.
+
 ## p0
 
 Extra edition. Trackpoint module installation.
