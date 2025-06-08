@@ -5,9 +5,9 @@ The purposes of this project.
 - Install it in ThinkPad
 
 ## p60S
-2025 new project
+2025 new project, pineapple60s
 
-Row-Staggered Ergonomic keyboard with Kailh PG1316 for installing ThinkPad X13 Gen2
+Row-Staggered Ergonomic (Alice) keyboard with Kailh PG1316 for installing ThinkPad X13 Gen2
 
 ![pineapple 60S](p60S/x13g2_v10.png)
 
@@ -22,6 +22,11 @@ The following ThinkPads meet the above requirements:
 - X13 Gen2 and Gen3
 
 X240 to X270 are also close, but we need to remove the motherboard to remove the keyboard.
+
+Project repository: 
+https://github.com/saoto28/pineapple60s.git
+
+How to make (in Japanese): https://note.com/saoto28/n/n716b7ca2e1f9
 
 ## p0
 
