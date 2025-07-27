@@ -4,8 +4,8 @@ ergonomic keyboard with Trackpoint
 The purposes of this project.
 - Install it in ThinkPad
 
-## p50P
-2025 summar The second project, Pineapple50-Popup, installing a Pop-up keyboard on the X250. Preparing for patent application before public release.
+## p60P
+2025-07 second project, Pineapple60-Popup, installing a Pop-up keyboard on X250. Preparing for patent application before public release.
 Stay tuned.
 
 ## p60S
