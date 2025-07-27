@@ -4,12 +4,18 @@ ergonomic keyboard with Trackpoint
 The purposes of this project.
 - Install it in ThinkPad
 
-## p50P
-2025 summar The second project, Pineapple50-Popup, installing a Pop-up keyboard on the X250. Preparing for patent application before public release.
-Stay tuned.
+## p60C
+2026, Pineapple60-Convertible, Three-dimensional ergonomic arrangement and a flat, compact convertible. A patent pending.
+
+Mockup ![pineapple 60C mockup](pics/20260122_123331447_iOS.jpg)
+[Video](https://x.com/i/status/2012152354393690457)
+
+## p60P
+Pineapple60-Popup, installing a Pop-up keyboard on X250. 
+< Pending >
 
 ## p60S
-2025 new project, pineapple60s
+2025, pineapple60s
 
 Row-Staggered Ergonomic (Alice) keyboard with Kailh PG1316 for installing ThinkPad X13 Gen2
 
