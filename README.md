@@ -4,14 +4,21 @@ ergonomic keyboard with Trackpoint
 The purposes of this project.
 - Install it in ThinkPad
 
-## p60D
-Pineapple60-Deep, coming soon.
-
 ## p60C
 2026, Pineapple60-Convertible, Three-dimensional ergonomic arrangement and a flat, compact convertible. A patent allowed in Japan.
 
-Mockup ![pineapple 60C mockup](pics/20260122_123331447_iOS.jpg)
-[Video](https://x.com/i/status/2012152354393690457)
+1st prototype ![ergonomic mode](pics/p60c.jpg)
+![flat mode](pics/p60c0.jpg)
+[Video](https://x.com/saoto28/status/2051869687362077159)
+
+Project repository: 
+https://github.com/saoto28/pineapple60c.git
+
+## pineapple-F
+Pinapple-Folding, under consideration
+
+## pineapple-D
+Pineapple-Deep, under consideration
 
 ## p60P
 Pineapple60-Popup, installing a Pop-up keyboard on X250. 
