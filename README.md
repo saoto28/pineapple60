@@ -21,8 +21,9 @@ Pinapple-Folding, under consideration
 Pineapple-Deep, under consideration
 
 ## p60P
-Pineapple60-Popup, installing a Pop-up keyboard on X250. 
-< Pending >
+Pineapple60-Popup, installing a Pop-up keyboard on a ThinkPad.  
+![mockup](pics/p60p_mockup.jpg)
+[Mockup video](https://youtu.be/z3uHgcyWICA)
 
 ## p60S
 2025, pineapple60s
