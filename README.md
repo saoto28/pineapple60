@@ -4,6 +4,18 @@ ergonomic keyboard with Trackpoint
 The purposes of this project.
 - Install it in ThinkPad
 
+## pineapple-F
+Pinapple-Fold, Foldable ergonomic keyboard  
+[mockup video on twitter](https://x.com/saoto28/status/2055436990498451473)
+
+## pineapple-D
+Pineapple-Deep, under consideration
+
+## p60P
+Pineapple60-Popup, installing a Pop-up keyboard on a ThinkPad.  
+![mockup](pics/p60p_mockup.jpg)
+[Mockup video](https://youtu.be/z3uHgcyWICA)
+
 ## p60C
 2026, Pineapple60-Convertible, Three-dimensional ergonomic arrangement and a flat, compact convertible. A patent allowed in Japan.
 
@@ -13,17 +25,6 @@ The purposes of this project.
 
 Project repository: 
 https://github.com/saoto28/pineapple60c.git
-
-## pineapple-F
-Pinapple-Folding, under consideration
-
-## pineapple-D
-Pineapple-Deep, under consideration
-
-## p60P
-Pineapple60-Popup, installing a Pop-up keyboard on a ThinkPad.  
-![mockup](pics/p60p_mockup.jpg)
-[Mockup video](https://youtu.be/z3uHgcyWICA)
 
 ## p60S
 2025, pineapple60s
